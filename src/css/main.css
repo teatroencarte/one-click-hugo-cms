@@ -79,6 +79,8 @@
 @import './imports/_media-queries';
 @import './imports/_variables';
 
+--primary: rgba(255, 68, 0, 1);
+
 /* Debugging */
 @import './imports/_debug-children';
 @import './imports/_debug-grid';
