@@ -12,8 +12,8 @@ blurb:
     encontrar nuestra programación actualizada. Además nos puedes contactar por
     Facebook para reserver tus asientos para nuestras funciones.
 intro:
-  heading: ''
-  text: ''
+  heading: test
+  text: things
 products: []
 values:
   heading: ''
