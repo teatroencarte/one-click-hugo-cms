@@ -17,8 +17,8 @@ blurb:
     Faro de Alejandría 2013, VI Festival La vida la mejor escena de Bello 2014,
     entre otros.
 intro:
-  heading: ...
-  text: ...
+  heading: Repertorio
+  text: ''
 products:
   - image: /img/_dsc5682.jpg
     text: OBRAS EDUCATIVAS - 2017
