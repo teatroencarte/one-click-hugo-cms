@@ -5,12 +5,12 @@ title: >-
 subtitle: '- Macbeth'
 image: /img/13754574_571558929688525_4814754816957578371_n.jpg
 blurb:
-  heading: Únete a nuestras redes sociales
+  heading: Quines Somos
   text: >-
-
-    Encuéntranos en redes sociales donde publicamos fotos, videos y donde puedes
-    encontrar nuestra programación actualizada. Además nos puedes contactar por
-    Facebook para reserver tus asientos para nuestras funciones.
+    Somos una empresa de servicios artísticos y culturales con énfasis en el
+    desarrollo y proyección de las artes escénicas, que se nutre de otras
+    áreas del conocimiento y las nuevas tecnologías para desarrollar lenguajes
+    novedosos permitiéndonos comunicarnos con el espectador de nuestra época.
 intro:
   heading: test
   text: things
