@@ -12,9 +12,12 @@ blurb:
     áreas del conocimiento y las nuevas tecnologías para desarrollar lenguajes
     novedosos permitiéndonos comunicarnos con el espectador de nuestra época.
 intro:
-  heading: test
-  text: things
-products: []
+  heading: ...
+  text: ...
+products:
+  - image: ''
+    text: ''
+  - image: ''
 values:
   heading: ''
   text: ''
