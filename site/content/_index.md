@@ -20,11 +20,11 @@ intro:
   heading: Repertorio
   text: ''
 products:
-  - image: /img/_dsc5682.jpg
+  - image: /img/pic-3.jpg
     text: OBRAS EDUCATIVAS - 2017
-  - image: /img/12443453_10208680189862358_783127390_o.jpg
+  - image: /img/pic-2.jpg
     text: EL REY LEAR – 2014
-  - image: /img/13754574_571558929688525_4814754816957578371_n.jpg
+  - image: /img/pic-1.jpg
     text: VELADA COLOMBIANA
 values:
   heading: Quienes Somos
