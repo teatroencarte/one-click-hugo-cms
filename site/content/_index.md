@@ -21,9 +21,9 @@ intro:
   text: ''
 products:
   - image: /img/pic-3.jpg
-    text: OBRAS EDUCATIVAS - 2017
+    text: OBRAS EDUCATIVAS
   - image: /img/pic-2.jpg
-    text: EL REY LEAR – 2014
+    text: EL REY LEAR
   - image: /img/pic-1.jpg
     text: VELADA COLOMBIANA
 values:
