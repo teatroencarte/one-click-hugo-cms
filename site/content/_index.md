@@ -20,9 +20,10 @@ intro:
   heading: ...
   text: ...
 products:
-  - image: ''
-    text: ''
-  - image: ''
+  - image: /img/_dsc5682.jpg
+    text: OBRAS EDUCATIVAS - 2017
+  - image: /img/12443453_10208680189862358_783127390_o.jpg
+    text: EL REY LEAR – 2014
 values:
   heading: Quienes Somos
   text: >-
