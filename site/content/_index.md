@@ -5,12 +5,17 @@ title: >-
 subtitle: '- Macbeth'
 image: /img/13754574_571558929688525_4814754816957578371_n.jpg
 blurb:
-  heading: Quienes Somos
+  heading: Trayectoria
   text: >-
-    Somos una empresa de servicios artísticos y culturales con énfasis en el
-    desarrollo y proyección de las artes escénicas, que se nutre de otras
-    áreas del conocimiento y las nuevas tecnologías para desarrollar lenguajes
-    novedosos permitiéndonos comunicarnos con el espectador de nuestra época.
+    Este colectivo orgullosamente Peñolense, ha ganado en los últimos años un
+    amplio reconocimiento en el ámbito Departamental, prueba de eso, ha sido su
+    participación en reconocidos festivales de Teatro como: Encuentro GATO del
+    Oriente Antioqueño 2009- 2014, Festival la Exfanfarria homenaje a José
+    Manuel Freidel 2011, I Festival Internacional La gran Carpa por la paz
+    ciudad de Barrancabermeja 2011, VII Fiesta de la artes escénicas ciudad de
+    Medellín 2011, XVIII Festival Caña de Brava de Sonsón 2013, I Festival El
+    Faro de Alejandría 2013, VI Festival La vida la mejor escena de Bello 2014,
+    entre otros.
 intro:
   heading: ...
   text: ...
