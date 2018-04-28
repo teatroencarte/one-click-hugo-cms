@@ -5,7 +5,7 @@ title: >-
 subtitle: '- Macbeth'
 image: /img/13754574_571558929688525_4814754816957578371_n.jpg
 blurb:
-  heading: Quines Somos
+  heading: Quienes Somos
   text: >-
     Somos una empresa de servicios artísticos y culturales con énfasis en el
     desarrollo y proyección de las artes escénicas, que se nutre de otras
