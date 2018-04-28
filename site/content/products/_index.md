@@ -1,6 +1,6 @@
 ---
 title: Repertorio
-image: /img/products-jumbotron.jpg
+image: /img/dsc_0973.jpg
 heading: Trayectoria
 description: >-
   Teatro Encarte es una entidad dedicada a la investigación, ex- perimentación
