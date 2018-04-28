@@ -24,7 +24,11 @@ products:
     text: ''
   - image: ''
 values:
-  heading: ''
-  text: ''
+  heading: Quienes Somos
+  text: >-
+    Somos una empresa de servicios artísticos y culturales con énfasis en el
+    desarrollo y proyección de las artes escénicas, que se nutre de otras
+    áreas del conocimiento y las nuevas tecnologías para desarrollar lenguajes
+    novedosos permitiéndonos comunicarnos con el espectador de nuestra época.
 ---
 
