@@ -1,8 +1,8 @@
 ---
-title: Quines Somos
+title: Quienes Somos
 image: /img/0b7b1o9-r825fz1jfzkrkrlj3dda.jpeg
 values:
-  - heading: Quines Somos
+  - heading: Quienes Somos
     text: >-
       Somos una empresa de servicios artísticos y culturales con énfasis en el
       desarrollo y proyección de las artes escénicas, que se nutre de otras
