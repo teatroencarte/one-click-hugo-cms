@@ -1,13 +1,13 @@
 ---
 title: TRANSFORMANDO COMUNIDADES CON EL ARTE
-date: 2018-03-01T10:04:10-05:00
+date: 2018-03-01T15:04:10.000Z
 description: >-
   Teatro Encarte es una entidad dedicada a la investigación, experimentación y
   creación de las artes escénicas conformada por un equipo de jóvenes
   emprendedores estudiosos de las artes en general. Posee un enfoque pedagógico
   y ha sido líder en el desarrollo de procesos educativos con la comunidad
   infantil y juvenil del municipio.
-image: /img/img_0256.jpg
+image: /img/img_0256ws.jpg
 ---
 La Corporación trabaja bajo cuatro líneas de acción:
 
