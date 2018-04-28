@@ -3,7 +3,7 @@ title: >-
   “¡Que la mirada sea franca! La alteración de las facciones es espejo del
   miedo.” 
 subtitle: '- Macbeth'
-image: /img/home-jumbotron.jpg
+image: /img/13754574_571558929688525_4814754816957578371_n.jpg
 blurb:
   heading: Únete a nuestras redes sociales
   text: >-
