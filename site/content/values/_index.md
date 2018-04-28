@@ -1,7 +1,15 @@
 ---
-title: MISIÓN
+title: Quines Somos
 image: /img/0b7b1o9-r825fz1jfzkrkrlj3dda.jpeg
 values:
+  - heading: Quines Somos
+    text: >-
+      Somos una empresa de ser- vicios artísticos y culturales con énfasis en
+      el desarrollo y proyección de las artes escé- nicas, que se nutre de
+      otras áreas del conocimiento y las nuevas tecnologías para de- sarrollar
+      lenguajes novedo- sos permitiéndonos comuni- carnos con el espectador de
+      nuestra época.
+        
   - heading: MISIÓN
     imageUrl: /img/11998565_10206800062975355_812480052_n.jpg
     text: >-
